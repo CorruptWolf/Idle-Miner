@@ -1,0 +1,37 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+table {
+	width: inherit;
+}
+
+
+body {
+  background:linear-gradient(to bottom, blue, white);
+}
+
+.coins {
+  background-color: #FAEBD7;
+  border: 3px solid #1c1c1c;
+  font-family: Verdana;
+  color: #1c1c1c;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 3%;
+  line-height: 2.7;
+  border-radius: 900px;
+}
+
+.tier1 {
+  background-color: #FAEBD7;
+  border: 3px solid #1c1c1c;
+  font-family: Verdana;
+  color: #1c1c1c;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 3%;
+  line-height: 2.7;
+  border-radius: 900px;  
+}
